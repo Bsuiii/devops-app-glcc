@@ -23,7 +23,7 @@ function readCounter() {
     return 0;
   }
 }
-//
+
 // Écrire compteur
 function writeCounter(count) {
   try {
